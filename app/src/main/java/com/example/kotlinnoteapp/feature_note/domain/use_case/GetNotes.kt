@@ -1,4 +1,4 @@
-package com.example.kotlinnoteapp.feature_note.presentation
+package com.example.kotlinnoteapp.feature_note.domain.use_case
 
 import com.example.kotlinnoteapp.feature_note.domain.model.Note
 import com.example.kotlinnoteapp.feature_note.domain.repository.NoteRepository

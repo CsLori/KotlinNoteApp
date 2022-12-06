@@ -9,7 +9,7 @@ import com.example.kotlinnoteapp.feature_note.domain.use_case.AddNote
 import com.example.kotlinnoteapp.feature_note.domain.use_case.DeleteNote
 import com.example.kotlinnoteapp.feature_note.domain.use_case.GetNote
 import com.example.kotlinnoteapp.feature_note.domain.use_case.NoteUseCases
-import com.example.kotlinnoteapp.feature_note.presentation.GetNotes
+import com.example.kotlinnoteapp.feature_note.domain.use_case.GetNotes
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
