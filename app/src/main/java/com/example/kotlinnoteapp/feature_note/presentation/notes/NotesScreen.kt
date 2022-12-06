@@ -41,11 +41,11 @@ fun NotesScreen(
             }
         },
         scaffoldState = scaffoldState
-    ) {
+    ) { contentPadding ->
         Column(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(16.dp)
+                .padding(contentPadding)
         ) {
             Row(
                 modifier = Modifier
